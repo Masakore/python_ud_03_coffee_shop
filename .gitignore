@@ -4,11 +4,9 @@ __pycache__/
 test.db
 
 # backend
-backend/README.md
 backend/.env
 
 # backend
-frontend/README.md
 
 
 # OS generated files #
